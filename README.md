@@ -2,9 +2,11 @@
 
 Un éditeur de fichiers texte sécurisé avec chiffrement AES-GCM-SIV et dérivation de clé Argon2.
 
+![ArgonEdit](ArgonEdit.PNG)
+
 ## Description
 
-ArgonEdit est une application de bureau qui permet de **créer, éditer et stocker des fichiers texte chiffrés**. Chaque fichier est protégé par un mot de passe et chiffré avec des algorithmes cryptographiques modernes. Les fichiers chiffrés portent l'extension `.enc`.
+ArgonEdit est une application de bureau qui permet de **chiffrer, déchiffrer et stocker tout type de fichier**. Chaque fichier est protégé par un mot de passe et chiffré avec des algorithmes cryptographiques modernes. Les fichiers chiffrés portent l'extension `.enc`. L'édition intégrée est disponible pour les fichiers texte (non binaires).
 
 Fonctionnalités principales :
 - Chiffrement et déchiffrement de fichiers
