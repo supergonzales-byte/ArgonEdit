@@ -61,3 +61,11 @@ python ArgonEdit.pyw
 
 - Python 3.8 ou supérieur
 - Windows
+
+  ## 💰 
+
+Si ce projet vous a été utile, vous pouvez faire un don
+
+**XRP (Ripple) :**
+```
+rJLagQnJhmLPAuvgnRqSKTa5KW3193ahot
