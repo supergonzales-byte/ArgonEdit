@@ -66,7 +66,7 @@ python ArgonEdit.pyw
 
   ## 💰 
 
-Si ce projet vous a été utile, vous pouvez faire un don
+Si cet outil vous a été utile, vous pouvez faire un don
 
 **XRP (Ripple) :**
 ```
